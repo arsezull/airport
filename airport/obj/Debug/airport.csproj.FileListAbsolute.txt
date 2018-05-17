@@ -1,0 +1,9 @@
+Z:\airport\airport\bin\Debug\airport.exe.config
+Z:\airport\airport\obj\Debug\airport.csprojResolveAssemblyReference.cache
+Z:\airport\airport\obj\Debug\airport.Properties.Resources.resources
+Z:\airport\airport\obj\Debug\airport.csproj.GenerateResource.Cache
+Z:\airport\airport\bin\Debug\airport.exe
+Z:\airport\airport\bin\Debug\airport.pdb
+Z:\airport\airport\obj\Debug\airport.MainForm.resources
+Z:\airport\airport\obj\Debug\airport.exe
+Z:\airport\airport\obj\Debug\airport.pdb
