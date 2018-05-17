@@ -438,7 +438,7 @@
             this.BtnPause.Name = "BtnPause";
             this.BtnPause.Size = new System.Drawing.Size(48, 48);
             this.BtnPause.TabIndex = 30;
-            this.BtnPause.Text = "button5";
+            this.BtnPause.Text = "Пауза";
             this.BtnPause.UseVisualStyleBackColor = true;
             this.BtnPause.Click += new System.EventHandler(this.BtnPause_Click);
             // 
